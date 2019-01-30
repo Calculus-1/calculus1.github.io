@@ -42,11 +42,15 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  font-size: 1.1em;
+  font-size: 1em;
 
   a + a {
     opacity: 0.5;
   }
+}
+
+.archive__item p {
+  font-size: .8em;
 }
 
 /* remove border*/
