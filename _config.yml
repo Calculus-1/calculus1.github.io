@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christopher J. Baik - Academic Website"
+title                    : "Christopher J. Baik"
 title_separator          : "-"
 name                     : &name "Christopher J. Baik"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Christopher J. Baik"
-  avatar           : "profile.png"
+  avatar           : "cjbaik.jpg"
   bio              : "PhD Student at the University of Michigan"
   location         : "Ann Arbor, MI"
   employer         :
