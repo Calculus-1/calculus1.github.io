@@ -4,4 +4,5 @@ collection: publications
 permalink: /publication/2019-04-08-templar-icde
 date: 2019-04-08
 venue: 'ICDE'
+authors: '<strong>Christopher Baik</strong>, H. V. Jagadish, and Yunyao Li'
 ---

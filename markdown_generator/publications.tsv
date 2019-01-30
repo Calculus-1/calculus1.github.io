@@ -1,4 +1,4 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2018-06-10	Beaver: Towards a Declarative Schema Mapping	HILDA		"Zhongjun Jin, <strong>Christopher Baik</strong>, Michael J. Cafarella and H. V. Jagadish. <em>Beaver: Towards a Declarative Schema Mapping</em>. Workshop on Human-In-the-Loop Data Analytics at SIGMOD 2018."	beaver-hilda	https://dl.acm.org/citation.cfm?id=3209902
-2019-01-16	Demonstration of a Multiresolution Schema Mapping System	CIDR		"Zhongjun Jin, <strong>Christopher Baik</strong>, Michael J. Cafarella, H. V. Jagadish, and Yuze Lou. <em>Beaver: Towards a Declarative Schema Mapping</em>. CIDR 2019."	beaver-cidr	http://cidrdb.org/cidr2019/papers/p9-jin-cidr19.pdf
-2019-04-08	Bridging the Semantic Gap with SQL Query Logs in Natural Language Interfaces to Databases	ICDE		"<strong>Christopher Baik</strong>, H. V. Jagadish, and Yunyao Li. <em>Bridging the Semantic Gap with SQL Query Logs in Natural Language Interfaces to Databases</em>. ICDE 2019."	templar-icde	
+pub_date	title	venue	authors	excerpt	citation	url_slug	paper_url
+2018-06-10	Beaver: Towards a Declarative Schema Mapping	HILDA	"Zhongjun Jin, <strong>Christopher Baik</strong>, Michael J. Cafarella and H. V. Jagadish"			beaver-hilda	https://dl.acm.org/citation.cfm?id=3209902
+2019-01-16	Demonstration of a Multiresolution Schema Mapping System	CIDR	"Zhongjun Jin, <strong>Christopher Baik</strong>, Michael J. Cafarella, H. V. Jagadish, and Yuze Lou"			beaver-cidr	http://cidrdb.org/cidr2019/papers/p9-jin-cidr19.pdf
+2019-04-08	Bridging the Semantic Gap with SQL Query Logs in Natural Language Interfaces to Databases	ICDE	"<strong>Christopher Baik</strong>, H. V. Jagadish, and Yunyao Li"			templar-icde	
