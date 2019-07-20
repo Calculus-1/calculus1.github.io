@@ -3,7 +3,8 @@ title: "Bridging the Semantic Gap with SQL Query Logs in Natural Language Interf
 collection: publications
 permalink: /publication/2019-04-08-templar-icde
 date: 2019-04-08
-venue: 'ICDE'
-paperurl: 'https://arxiv.org/pdf/1902.00031.pdf'
+type: 'Long Paper'
+venue: 'ICDE 2019'
+paperurl: 'https://ieeexplore.ieee.org/document/8731607'
 authors: '<strong>Christopher Baik</strong>, H. V. Jagadish, and Yunyao Li'
 ---

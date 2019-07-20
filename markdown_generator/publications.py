@@ -81,6 +81,8 @@ for row, item in publications.iterrows():
 
     md += "\ndate: " + str(item.pub_date)
 
+    md += "\ntype: '" + item.type + "'"
+
     md += "\nvenue: '" + html_escape(item.venue) + "'"
 
     if len(str(item.paper_url)) > 5:
@@ -106,5 +108,3 @@ for row, item in publications.iterrows():
 
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
-

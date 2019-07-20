@@ -42,7 +42,8 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  font-size: 1em;
+  font-size: 0.9em;
+  line-height: 1.25;
 
   a + a {
     opacity: 0.5;
@@ -50,7 +51,9 @@
 }
 
 .archive__item p {
+  font-family: $sans-serif-narrow;
   font-size: .8em;
+  line-height: 1.25;
 }
 
 /* remove border*/
