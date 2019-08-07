@@ -41,8 +41,8 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
-  font-size: 0.9em;
+  // font-family: $sans-serif-narrow;
+  // font-size: 0.9em;
   line-height: 1.25;
 
   a + a {
@@ -50,7 +50,15 @@
   }
 }
 
+.archive__item-pub-title {
+  font-family: $sans-serif-narrow;
+  font-size: 0.9em;
+}
+
 .archive__item p {
+}
+
+.archive__item-pub-type, .archive__item-pub-authors, .archive__item-pub-pdf {
   font-family: $sans-serif-narrow;
   font-size: .8em;
   line-height: 1.25;
