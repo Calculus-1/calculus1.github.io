@@ -6,3 +6,4 @@ date: 2020-01-12
 type: 'Abstract'
 venue: 'CIDR 2020'
 authors: '<strong>Christopher Baik</strong>'
+---
