@@ -63,13 +63,16 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %} -->
 
-    {% if post.paperurl or post.slidesurl %}
+    {% if post.paperurl or post.slidesurl or post.codeurl %}
     <p class="archive__item-pub-pdf">
       {% if post.paperurl %}
       [<a href=" {{ post.paperurl }} ">pdf</a>]
       {% endif %}
       {% if post.slidesurl %}
       [<a href=" {{ post.slidesurl }} ">slides</a>]
+      {% endif %}
+      {% if post.codeurl %}
+      [<a href=" {{ post.codeurl }} ">code</a>]
       {% endif %}
     </p>
     {% endif %}

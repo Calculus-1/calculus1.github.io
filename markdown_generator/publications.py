@@ -91,6 +91,9 @@ for row, item in publications.iterrows():
     if len(str(item.slides_url)) > 5:
         md += "\nslidesurl: '" + item.slides_url + "'"
 
+    if len(str(item.code_url)) > 5:
+        md += "\ncodeurl: '" + item.code_url + "'"
+
     md += "\nauthors: '" + html_escape(item.authors) + "'"
 
     # md += "\ncitation: '" + html_escape(item.citation) + "'"
