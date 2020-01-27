@@ -18,7 +18,7 @@ I am a believer in Jesus Christ, happily married to my wife Sharon since 2017, a
 
 * Spring/Summer 2020 - Currently seeking a postdoc position!
 * Jan. 2020 - Presented [dual-specification SQL query synthesis](https://chrisbaik.com/assets/files/duoquest_cidr2020.pdf) and an abstract on a [fragment-driven natural language interface for databases](https://chrisbaik.com/assets/files/fragsql_cidr2020.pdf) at CIDR 2020 in Amsterdam.
-* Dec. 2019 - Presented [dual-specification SQL query synthesis](https://chrisbaik.com/assets/files/duoquest_cidr2020.pdf) at the Michigan Institute for Data Science (MIDAS) Symposium in Ann Arbor, MI
-* Aug. 2019 - Presented [disambiguating natural language queries](https://chrisbaik.com/assets/files/litmus_cast2019.pdf) at the CAST workshop at VLDB 2019 in Los Angeles, CA
-* Apr. 2019 - Presented a means to [improve natural language interfaces to databases with SQL query logs](https://ieeexplore.ieee.org/document/8731607) at ICDE 2020 in Macao
-* Jan. 2019 - My colleague, Zhongjun (Mark) Jin, presented a demo on [multiresolution schema mapping](http://cidrdb.org/cidr2019/papers/p9-jin-cidr19.pdf) at CIDR 2019 in Asilomar, CA
+* Dec. 2019 - Presented [dual-specification SQL query synthesis](https://chrisbaik.com/assets/files/duoquest_cidr2020.pdf) at the Michigan Institute for Data Science (MIDAS) Symposium in Ann Arbor, MI.
+* Aug. 2019 - Presented [disambiguating natural language queries](https://chrisbaik.com/assets/files/litmus_cast2019.pdf) at the CAST workshop at VLDB 2019 in Los Angeles, CA.
+* Apr. 2019 - Presented a means to [improve natural language interfaces to databases with SQL query logs](https://ieeexplore.ieee.org/document/8731607) at ICDE 2020 in Macao.
+* Jan. 2019 - My colleague, Zhongjun (Mark) Jin, presented a demo on [multiresolution schema mapping](http://cidrdb.org/cidr2019/papers/p9-jin-cidr19.pdf) at CIDR 2019 in Asilomar, CA.
