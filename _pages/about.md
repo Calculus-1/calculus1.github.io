@@ -17,7 +17,8 @@ I am a believer in Jesus Christ, happily married to my wife Sharon since 2017, a
 ## News
 
 * Apr. 2020 - Will be starting a postdoc position working with [Ras Bodik](https://homes.cs.washington.edu/~bodik/) at the University of Washington.
-* Mar. 2020 - Will perform oral defense and finish PhD at the University of Michigan.
+* Mar. 2020 - Our paper on Duoquest, a dual-specification SQL synthesis system, has been accepted to SIGMOD 2020!
+* Mar. 2020 - Performed my defense at the University of Michigan!
 * Jan. 2020 - Presented [dual-specification SQL query synthesis](https://chrisbaik.com/assets/files/duoquest_cidr2020.pdf) and an abstract on a [fragment-driven natural language interface for databases](https://chrisbaik.com/assets/files/fragsql_cidr2020.pdf) at CIDR 2020 in Amsterdam.
 * Dec. 2019 - Presented [dual-specification SQL query synthesis](https://chrisbaik.com/assets/files/duoquest_cidr2020.pdf) at the Michigan Institute for Data Science (MIDAS) Symposium in Ann Arbor, MI.
 * Aug. 2019 - Presented [disambiguating natural language queries](https://chrisbaik.com/assets/files/litmus_cast2019.pdf) at the CAST workshop at VLDB 2019 in Los Angeles, CA.
