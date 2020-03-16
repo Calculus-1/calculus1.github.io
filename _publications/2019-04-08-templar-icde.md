@@ -3,7 +3,7 @@ title: "Bridging the Semantic Gap with SQL Query Logs in Natural Language Interf
 collection: publications
 permalink: /publication/2019-04-08-templar-icde
 date: 2019-04-08
-type: 'Long Paper'
+type: 'Research'
 venue: 'ICDE 2019'
 paperurl: 'https://ieeexplore.ieee.org/document/8731607'
 slidesurl: '/assets/files/templar_icde2019_slides.pdf'

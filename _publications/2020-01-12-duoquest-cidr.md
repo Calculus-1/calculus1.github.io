@@ -3,7 +3,7 @@ title: "Constructing Expressive Relational Queries with Dual-Specification Synth
 collection: publications
 permalink: /publication/2020-01-12-duoquest-cidr
 date: 2020-01-12
-type: 'Short Paper'
+type: 'Research'
 venue: 'CIDR 2020'
 paperurl: '/assets/files/duoquest_cidr2020.pdf'
 slidesurl: '/assets/files/duoquest_cidr2020_novideo.pptx'
