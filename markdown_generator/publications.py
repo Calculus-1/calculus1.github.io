@@ -93,6 +93,9 @@ for row, item in publications.iterrows():
 
     if len(str(item.code_url)) > 5:
         md += "\ncodeurl: '" + item.code_url + "'"
+    
+    if len(str(item.report_url)) > 5:
+        md += "\nreporturl: '" + item.report_url + "'"
 
     md += "\nauthors: '" + html_escape(item.authors) + "'"
 

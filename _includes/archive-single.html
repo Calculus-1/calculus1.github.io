@@ -57,13 +57,7 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    <!-- {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %} -->
-
-    {% if post.paperurl or post.slidesurl or post.codeurl %}
+    {% if post.paperurl or post.slidesurl or post.codeurl or post.reporturl %}
     <p class="archive__item-pub-pdf">
       {% if post.paperurl %}
       [<a href=" {{ post.paperurl }} ">pdf</a>]
@@ -74,9 +68,11 @@
       {% if post.codeurl %}
       [<a href=" {{ post.codeurl }} ">code</a>]
       {% endif %}
+      {% if post.reporturl %}
+      [<a href=" {{ post.reporturl }} ">report</a>]
+      {% endif %}
     </p>
     {% endif %}
-    <!-- {% endif %} -->
 
   </article>
 </div>

@@ -55,14 +55,17 @@
   font-size: 0.9em;
 }
 
-.archive__item p {
-  font-size: $type-size-5;
-}
+.archive__item {
+  p {
+    font-size: $type-size-5;
+    line-height: 1.75;
+  }
 
-.archive__item-pub-type, .archive__item-pub-authors, .archive__item-pub-pdf {
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-5;
-  line-height: 1.25;
+  .archive__item-pub-type, .archive__item-pub-authors, .archive__item-pub-pdf {
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-5;
+    line-height: 1.25;
+  }
 }
 
 /* remove border*/
