@@ -51,7 +51,7 @@
 }
 
 .archive__item-pub-title {
-  font-family: $sans-serif-narrow;
+  font-family: $sans-serif;
   // font-size: 0.9em;
 }
 
@@ -61,16 +61,17 @@
     line-height: 1.75;
   }
 
-  .archive__item-pub-type, .archive__item-pub-authors, .archive__item-pub-pdf {
-    font-family: $sans-serif-narrow;
+  .archive__item-pub-type,
+  .archive__item-pub-authors,
+  .archive__item-pub-pdf {
     font-size: $type-size-5;
     line-height: 1.25;
+    font-weight: 300;
   }
 }
 
 /* remove border*/
 .page__content {
-
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
@@ -100,7 +101,6 @@
   }
 }
 
-
 /*
    List view
    ========================================================================== */
@@ -122,7 +122,6 @@
     margin: 0 0 4px;
   }
 }
-
 
 /*
    Grid view
@@ -166,7 +165,6 @@
     }
   }
 }
-
 
 /*
    Features
