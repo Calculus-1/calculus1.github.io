@@ -16,6 +16,7 @@ I am a believer in Jesus Christ, happily married to my wife Sharon since 2017, a
 
 ## News
 
+- Jun. 2020 - Presented our [paper](https://doi.org/10.1145/3318464.3389776) on Duoquest at SIGMOD 2020.
 - Apr. 2020 - Started as a postdoc working with [Prof. Ras Bodik](https://homes.cs.washington.edu/~bodik/) at the University of Washington.
 - Mar. 2020 - Our paper on Duoquest, a dual-specification SQL synthesis system, has been accepted to SIGMOD 2020!
 - Mar. 2020 - Performed my defense at the University of Michigan!
