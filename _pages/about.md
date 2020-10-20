@@ -12,10 +12,11 @@ I am a Postdoctoral Scholar at the Paul G. Allen School of Computer Science and 
 
 Before that, I obtained my PhD from the University of Michigan, co-advised by [Prof. Mike Cafarella](http://web.eecs.umich.edu/~michjc/index.html) and [Prof. H. V. Jagadish](https://web.eecs.umich.edu/~jag/) in the [Database Research Group](http://dbgroup.eecs.umich.edu). My PhD research was on helping users query relational databases more easily without needing to learn complex languages like SQL.
 
-I am a believer in Jesus Christ, happily married to my wife Sharon since 2017, an active member of [Harvest Mission Community Church](http://hmcc.net), and in my spare time, enjoy trying new foods, writing [Yelp reviews](https://www.yelp.com/user_details?userid=NWQyHedzeZUccPY2f5vRBQ), playing acoustic guitar, basketball, and [reading books](https://www.goodreads.com/user/show/19711018-chris-baik). I love Michigan football (and to a lesser extent, basketball) and hence will be generally preoccupied on Saturdays in the fall season.
+I am a believer in Jesus Christ, happily married to my wife Sharon since 2017, and in my spare time enjoy trying new foods and writing [Yelp reviews](https://www.yelp.com/user_details?userid=NWQyHedzeZUccPY2f5vRBQ), playing acoustic guitar, basketball, and [reading books](https://www.goodreads.com/user/show/19711018-chris-baik). I love Michigan football (and to a lesser extent, basketball) and hence will be generally preoccupied on Saturdays in the fall season.
 
 ## News
 
+- Jun. 2020 - Presented our [paper](https://doi.org/10.1145/3318464.3389776) on Duoquest at SIGMOD 2020.
 - Apr. 2020 - Started as a postdoc working with [Prof. Ras Bodik](https://homes.cs.washington.edu/~bodik/) at the University of Washington.
 - Mar. 2020 - Our paper on Duoquest, a dual-specification SQL synthesis system, has been accepted to SIGMOD 2020!
 - Mar. 2020 - Performed my defense at the University of Michigan!
