@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar at the Paul G. Allen School of Computer Science and Engineering at the University of Washington, mentored by [Prof. Ras Bodik](https://homes.cs.washington.edu/~bodik/). My current research is on developing tools to help social scientists and other researchers build ontologies and extract semantic data from the Web without extensive programing training.
+I am a Postdoctoral Scholar at the Paul G. Allen School of Computer Science and Engineering at the University of Washington, mentored by [Prof. Ras Bodik](https://homes.cs.washington.edu/~bodik/). My current research is on developing tools to help social scientists and other researchers build ontologies and extract semantic data from the Web without extensive programming training.
 
 Before that, I obtained my PhD from the University of Michigan, co-advised by [Prof. Mike Cafarella](http://web.eecs.umich.edu/~michjc/index.html) and [Prof. H. V. Jagadish](https://web.eecs.umich.edu/~jag/) in the [Database Research Group](http://dbgroup.eecs.umich.edu). My PhD research was on helping users query relational databases more easily without needing to learn complex languages like SQL.
 
